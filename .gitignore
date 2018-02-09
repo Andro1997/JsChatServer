@@ -1,2 +1,4 @@
-.xml
-.vcs
+*.xml
+*.vcs
+*.txt
+*.md
