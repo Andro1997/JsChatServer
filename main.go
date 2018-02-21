@@ -8,6 +8,7 @@ import (
 )
 
 
+
 var clients *list.List //  save of clients
 
 func handleClient(socket net.Conn) {
